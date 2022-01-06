@@ -1,0 +1,6 @@
+fonctions.c:11:6:Ligne_Init	16	static
+fonctions.c:15:6:Commande_exec	24	static
+fonctions.c:56:6:Get_Speed	8	static
+fonctions.c:60:6:Set_SPEED	48	dynamic
+fonctions.c:79:6:Start	8	static
+fonctions.c:95:6:Stop	8	static
